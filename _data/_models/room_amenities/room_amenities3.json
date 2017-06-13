@@ -1,6 +1,5 @@
 {
-    "name": "Food &amp; Drink 2",
-    "description": "Coffee Maker and Refrigerator (on request)",
-    "order": 3,
-    "hidden": true
+  "name": "Cable TV service",
+  "order": 3,
+  "hidden": false
 }

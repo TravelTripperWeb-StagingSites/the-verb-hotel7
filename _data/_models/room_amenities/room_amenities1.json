@@ -1,5 +1,5 @@
 {
-    "name": "Entertainment",
-    "description": "Free WiFi, iPod docks, flat-screen TVs",
-    "order": 3
+  "name": "Air conditioning",
+  "order": 1,
+  "hidden": false
 }
